@@ -1,8 +1,14 @@
-# Welcome to Lynx AI!
+# 👋 Welcome to Lynx AI
 
-We are a young startup comapny aiming to revolutionize the way you work with data in Splunk.  
+**Your Data, Your Language**
 
-You can:
+We're a fast-growing startup on a mission to transform how you work with data.
 
-- Check out our solutions [here](https://trylynx.ai) 🚀
-- Reach out to us at hi@trylynx.ai
+Our agentic AI bridges the gap between human questions and complex queries, making exploration, troubleshooting, and insight discovery faster than ever.
+
+---
+
+### 🔗 Get in Touch
+
+- 🚀 Explore what we're building: https://trylynx.ai  
+- 📬 Say hello: hi@trylynx.ai
