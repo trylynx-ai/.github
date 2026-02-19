@@ -10,5 +10,6 @@ Our agentic AI bridges the gap between human questions and complex queries, maki
 
 ### 🔗 Get in Touch
 
-- 🚀 Explore what we're building: https://trylynx.ai  
+- 🚀 Explore what we're building: https://trylynx.ai
+- 📄 Browse our documentation: https://docs.trylynx.ai
 - 📬 Say hello: hi@trylynx.ai
